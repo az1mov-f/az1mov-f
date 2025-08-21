@@ -2,7 +2,7 @@
 
 <p style="display: flex; align-items: center; justify-content: start; gap: 20px;">
   <img src="https://www.codewars.com/users/az1mov_f/badges/large" height="150" />
-  <img src="https://leetcard.jacoblin.cool/az1mov_f?theme=dark&font=baloo&ext=contest" height="150" />
+  <img src="https://leetcard.jacoblin.cool/your_username?theme=dark&font=baloo&ext=contest" height="150" />
 </p>
 
 
