@@ -1,8 +1,8 @@
 ### Assalomu alaykum 👋
 
-<div style="display: flex; align-items: center; justify-content: center; gap: 20px;">
-  <img src="https://www.codewars.com/users/az1mov_f/badges/large" height="150" />
-  <img src="https://leetcard.jacoblin.cool/az1mov_f?theme=dark&font=baloo&ext=contest" height="150" />
+<div style="display: flex; align-items: center; justify-content: center; gap: 20px; height:150px;">
+  <img src="https://www.codewars.com/users/az1mov_f/badges/large" />
+  <img src="https://leetcard.jacoblin.cool/az1mov_f?theme=dark&font=baloo&ext=contest" />
 </div>
 
 
