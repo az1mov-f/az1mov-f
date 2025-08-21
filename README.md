@@ -2,11 +2,11 @@
 
 ###
 
-<p align="left">My name is Fozil and I'm a Frontend developer from Uzbekistan</p>
+<p align="left">My name is Foziljon and I'm a Frontend developer from Uzbekistan</p>
 
 ###
 
-<h2 align="left">About me</h2>
+<h3 align="left">About me</h3>
 
 ###
 
@@ -14,7 +14,7 @@
 
 ###
 
-<h2 align="left">I code with</h2>
+<h3 align="left">I code with</h3>
 
 ###
 
