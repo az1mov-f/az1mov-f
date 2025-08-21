@@ -40,6 +40,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo" />
 </div>
 
+<br/>
 
 <p style="display: flex; align-items: center; justify-content: start; gap: 20px;">
   <img src="https://www.codewars.com/users/az1mov_f/badges/large" height="150" />
