@@ -1,7 +1,7 @@
 <h1>Assalomu alaykum 👋</h1>
 <p align="left">My name is Foziljon and I'm a Frontend developer from Uzbekistan</p>
 
-<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently studying Next.js and Nuxt.js in depth.</p>
+<p align="left">✨ Creating bugs since 2022<br>📚 I'm currently studying Next.js in depth.</p>
 
 ###
 
