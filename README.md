@@ -35,4 +35,4 @@
 
 ###
 
-[![Codewars](https://www.codewars.com/users/az1mov_f/badges/large)](https://www.codewars.com/users/az1mov_f
+[![Codewars](https://www.codewars.com/users/az1mov_f/badges/large)](https://www.codewars.com/users/az1mov_f)
