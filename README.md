@@ -35,4 +35,6 @@
 
 ###
 
-[![Codewars](https://www.codewars.com/users/az1mov_f/badges/large)](https://www.codewars.com/users/az1mov_f)
+<a href="https://www.codewars.com/users/az1mov_f" target="_blank">
+  <img src="https://www.codewars.com/users/az1mov_f/badges/large" height="150" />
+</a>
